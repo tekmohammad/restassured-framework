@@ -1,0 +1,12 @@
+# Configurations
+timeout=5000
+environment=DEV
+
+# Token expiration time in minutes
+token.expiration.minutes=10
+
+# Credentials
+supervisor.username=`
+supervisor.password=
+operator.username=
+operator.password=
