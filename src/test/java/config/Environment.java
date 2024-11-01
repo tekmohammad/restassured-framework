@@ -7,6 +7,7 @@ package config;
 public enum Environment {
     DEV("https://dev.insurance-api.tekschool-students.com"),
     QA("https://qa.insurance-api.tekschool-students.com"),
+    USERS("https://jsonplaceholder.typicode.com"),
     PROD("https://api.example.com");
 
     private final String baseURL;

@@ -6,7 +6,7 @@ environment=DEV
 token.expiration.minutes=10
 
 # Credentials
-supervisor.username=`
+supervisor.username=
 supervisor.password=
 operator.username=
 operator.password=
